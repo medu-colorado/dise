@@ -14,7 +14,7 @@ keywords = [
     "machine learning", "sensitivity analysis", "perturbation",
 ]
 authors = [
-    { name = "DISE Authors", email = "dise@example.com" },
+    { name = "Melvin Dunn", email = "melvin.dunn@colorado.edu" },
 ]
 classifiers = [
     "Development Status :: 3 - Alpha",
