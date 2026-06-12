@@ -49,10 +49,10 @@ dev = [
 all = ["dise[xgboost,plotting,dev]"]
 
 [project.urls]
-Repository = "https://github.com/yourorg/dise"
-Documentation = "https://github.com/yourorg/dise#readme"
-"Bug Tracker" = "https://github.com/yourorg/dise/issues"
-Changelog = "https://github.com/yourorg/dise/blob/main/CHANGELOG.md"
+Repository = "https://github.com/medu-colorado/dise"
+Documentation = "https://github.com/medu-colorado/dise#readme"
+"Bug Tracker" = "https://github.com/medu-colorado/dise/issues"
+Changelog = "https://github.com/medu-colorado/dise/blob/main/CHANGELOG.md"
 
 # ── Package discovery ─────────────────────────────────────────────────────────
 # Only include the `dise` package — tests, benchmarks, and examples
