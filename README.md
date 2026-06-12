@@ -82,7 +82,7 @@ If you use DISE in research, please cite:
   title  = {Directional Sensitivity Explainability: A Feature-Group
              Perturbation Framework for Supervised Machine Learning Models},
   author = {Melvin Dunn},
-  year   = {2025},
+  year   = {2026},
   url    = {https://github.com/medu-colorado/dise},
 }
 ```
